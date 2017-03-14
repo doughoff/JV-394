@@ -1,0 +1,8 @@
+<!ELEMENT classes (class+)>
+<!ELEMENT class (name, teacher?, room+, date+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT room (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+          type CDATA #IMPLIED>

@@ -1,0 +1,33 @@
+* { 
+    display: block;
+}
+class {
+    border-bottom: darkgrey 1px solid;
+}
+name {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: red; 
+    margin-top: .5em;
+}
+name::before { 
+    content: "Name: ";
+}
+teacher {
+    font-weight: bold;
+}
+teacher::before { 
+    content: "Teacher: ";
+}
+room {
+    margin-left: 1em;
+}
+room::before { 
+    content: "Room: ";
+}
+date {
+    margin-left: 1em;
+}
+date::before { 
+    content: "Date: ";
+}

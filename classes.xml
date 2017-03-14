@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file:///C:/Users/Student/Desktop/XML/classes.css"?>
+<!DOCTYPE classes SYSTEM "file:///C:/Users/Student/Desktop/XML/classes.dtd">
+<classes>
+  <class>
+    <name>Intro to XML® 2017 &#x0158;</name>
+    <teacher>Doug Hoff</teacher>
+    <room>202</room>
+    <room>200</room>
+    <date type="start">3/13/2017</date>
+    <date type="end">3/14/2017</date>
+  </class>
+  <class>
+    <name>Intro to XML 2</name>
+    <room>202</room>
+    <date>3/13/2017</date>
+  </class>
+    <class>
+    <name>Intro to XML 3</name>
+    <teacher>Doug Hoff</teacher>
+    <room>202</room>
+    <date>3/13/2017</date>
+  </class>
+    <class>
+    <name>Intro to XML 4</name>
+    <teacher>Doug Hoff</teacher>
+    <room>202</room>
+    <date>3/13/2017</date>
+  </class>
+</classes>
