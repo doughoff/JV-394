@@ -1,4 +1,4 @@
-<?xml version="1.0"?> 
+﻿<?xml version="1.0"?> 
 <!DOCTYPE PLAY SYSTEM "play.dtd"> 
  
 <PLAY> 
@@ -48,7 +48,7 @@
  
 <SPEECH> 
 <SPEAKER>VALENTINE</SPEAKER> 
-<LINE>Cease to persuade, my loving Proteus:</LINE> 
+<LINE type="data">Cease to persuade, my loving Proteus:</LINE> 
 <LINE>Home-keeping youth have ever homely wits.</LINE> 
 <LINE>Were't not affection chains thy tender days</LINE> 
 <LINE>To the sweet glances of thy honour'd love,</LINE> 

@@ -4,11 +4,13 @@
     <make>Porsche</make>
     <model>911</model>
     <year>2001</year>
+    <maintenance>2016</maintenance>
   </car>
   <car miles="50"> abc
     <make>VW</make> def
     <model>Beetle</model> ghi
     <year>1974</year> jkl
+    <!-- This is a car comment -->
   </car>
   <van miles="30000">
     <make>Ford</make>
