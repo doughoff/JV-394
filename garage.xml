@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="garage2.xslt"?>
 <garage>
   <car miles="0">
     <make>Porsche</make>
