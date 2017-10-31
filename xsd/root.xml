@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Student/Desktop/XML/root.xsd">
+  <element version="122.0987">
+  This is an element
+  </element>
+  <element>
+  This is another element
+  </element>
+
+  <element>
+  This is an element
+  </element>
+  <element>
+  This is another element
+  </element>
+</root>
